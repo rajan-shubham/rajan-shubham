@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shubham Kumar
+# 👋 Hey, I'm Shubham Kumar
 
 🚀 **Fullstack Engineer | Node.js | mongoDB | Ai/Ml Enthusiast**
 
@@ -8,10 +8,15 @@
 ## 📦 Toolbox
 
 📱 **Frontend Development:** `JavaScript` `TypeScript` `React` `NextJS` `TailwindCSS` `daisyUI`
-🦾 **Ai/Ml:** `Pandas` `Numpy` `matplotlib` `networkx` 
-🗄️ **Backend Development:** `SpringBoot` `MySQL` `NodeJS` `Express` `MongoDB` `Firebase` 
+
+🦾 **Ai/Ml:** `Pandas` `Numpy` `matplotlib` `networkx`
+
+🗄️ **Backend Development:** `SpringBoot` `MySQL` `NodeJS` `Express` `MongoDB` `Firebase`
+
 💻 **Languages:** `Java` `Python` `C` `OCaml` `Bash`
+
 🛠️ **Version Control:** `Docker` `Git` `Github`
+
 🖥️ **OS:** `Debian`, `Ubuntu`, `Fedora`
 
 ## 📜 Certifications  
@@ -23,20 +28,23 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rajan-shubham)  
 [![Email](https://img.shields.io/badge/Email-shubhamkumar.gdsc@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:shubhamkumar.gdsc@gmail.com)
 
-<button onclick="toggleStats()">Show GitHub Stats</button>
+---
 
-<aside id="github-stats" style="display: none; margin-top: 20px;">
+## 📊 GitHub Stats
+
+<details>
+  <summary>Click to show GitHub Stats</summary>
+
+  <br>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajan-shubham&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rajan-shubham&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan-shubham" alt="Streak Stats" />
-</aside>
 
-<script>
-  function toggleStats() {
-    const stats = document.getElementById("github-stats");
-    stats.style.display = "block";
-    event.target.style.display = "none";
-  }
-</script>
+  <img src="https://github-readme-stats.vercel.app/api?username=rajan-shubham&show_icons=true&locale=en" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajan-shubham" alt="Streak Stats" />
+
+</details>
+
+---
 
 🚀 **Always open to collaboration & new opportunities!**  

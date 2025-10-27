@@ -9,7 +9,7 @@
 
 📱 **Frontend Development:** `JavaScript` `TypeScript` `React` `NextJS` `TailwindCSS` `daisyUI`
 
-🦾 **Ai/Ml:** `Pandas` `Numpy` `matplotlib` `networkx`
+🦾 **Ai/Ml:** `BioPython` `PyTorch` `Pandas` `Numpy` `matplotlib` `networkx`
 
 🗄️ **Backend Development:** `SpringBoot` `MySQL` `NodeJS` `Express` `MongoDB` `Firebase`
 
@@ -20,8 +20,9 @@
 🖥️ **OS:** `Debian`, `Ubuntu`, `Fedora`
 
 ## 📜 Certifications  
+- **HSBC x IITB Trust Lab 2025 Hackaton Winner** - [HSBC Certificate](https://drive.google.com/file/d/1KnatD5zYjxakGig7K10MnGYS__KzBm3G/view?usp=drivesdk)
 - **Learn Google Cloud Gemini, Looker, Dataplex, ML Api** - [GoogleCloudSkills](https://www.cloudskillsboost.google/public_profiles/eae0defc-b8ac-4984-91f7-53d942776598)  
-- **Learn AI and ML unleashed : Navigating the future** - [NDLI_club](https://drive.google.com/file/d/1JwPmrQ4mrlgKt3iloR_XeK4WtMBGdK1O/view?usp=sharing)  
+- **Learn AI and ML unleashed : Navigating the future** - [NDLI_club](https://drive.google.com/file/d/1JwPmrQ4mrlgKt3iloR_XeK4WtMBGdK1O/view?usp=sharing) 
 
 ## 📬 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shubham-kumar-617760258)  

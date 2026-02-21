@@ -1,25 +1,26 @@
 # 👋 Hey, I'm Shubham Kumar
 
-🚀 **Fullstack Engineer | Node.js | mongoDB | Ai/Ml Enthusiast**
+🚀 **Fullstack Engineer | Spring Boot | PostgreSQL | Ai/Ml Enthusiast**
 
-- I'm currently learning **MERN** and **AWS** for Fullstack Devlopment.
+- I'm currently learning **MEAN** and **AWS** for Fullstack Devlopment.
 - Check out my [website](https://shubham-ivory.vercel.app/) to know more about me.
 
 ## 📦 Toolbox
 
-📱 **Frontend Development:** `JavaScript` `TypeScript` `React` `NextJS` `TailwindCSS` `daisyUI`
+📱 **Frontend Development:** `JavaScript` `TypeScript` `React` `NextJS` `TailwindCSS` `Angular`
 
-🦾 **Ai/Ml:** `BioPython` `PyTorch` `Pandas` `Numpy` `matplotlib` `networkx`
+🦾 **Ai/Ml:** `BioPython` `PyTorch` `Pandas` `Numpy` `matplotlib`
 
-🗄️ **Backend Development:** `SpringBoot` `MySQL` `NodeJS` `Express` `MongoDB` `Firebase`
+🗄️ **Backend Development:** `SpringBoot` `MySQL` `mongoDB`  `NodeJS` `Express` `FastAPI` 
 
-💻 **Languages:** `Java` `Python` `C` `OCaml` `Bash`
+💻 **Languages:** `Java` `Python` `C` `OCaml` `Bash` `Golang`
 
-🛠️ **Version Control:** `Docker` `Git` `Github`
+🛠️ **DevOps:** `Docker` `Git` `Github` `Jenkins` `Ansible` `Prometheus` `Grafana` `Github Actions`   
 
-🖥️ **OS:** `Debian`, `Ubuntu`, `Fedora`
+🖥️ **OS:** `Debian`, `Ubuntu`, `Fedora`, `macOS`, `Windows`
 
-## 📜 Certifications  
+## 📜 Certifications
+- **NEUEDA Training Course {JAVA, Spring Boot, MySQL, GitHub Action}** - [Taining Certificate](https://drive.google.com/file/d/1mvFoaaDCOvR9rwrkkVF5MWk73yA44XGL/view?usp=drive_link)
 - **HSBC x IITB Trust Lab 2025 Hackaton Winner** - [HSBC Certificate](https://drive.google.com/file/d/1KnatD5zYjxakGig7K10MnGYS__KzBm3G/view?usp=drivesdk)
 - **Learn Google Cloud Gemini, Looker, Dataplex, ML Api** - [GoogleCloudSkills](https://www.cloudskillsboost.google/public_profiles/eae0defc-b8ac-4984-91f7-53d942776598)  
 - **Learn AI and ML unleashed : Navigating the future** - [NDLI_club](https://drive.google.com/file/d/1JwPmrQ4mrlgKt3iloR_XeK4WtMBGdK1O/view?usp=sharing) 
